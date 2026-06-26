@@ -4,11 +4,11 @@ body {
     margin: 0;
     padding: 0;
     background-color: #9999FF;
-    color: #333;
+    color: #000;
 }
 
 header {
-    background: #000000;
+    background: #67427D;
     color: white;
     padding: 20px 0;
     text-align: center;
