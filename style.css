@@ -3,12 +3,12 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
-    color: #333;
+    background-color: #e0f2fe; 
+    color: #1e293b;           
 }
 
 header {
-    background: #4CAF50;
+    background: #1e40af;      
     color: white;
     padding: 20px 0;
     text-align: center;
@@ -20,6 +20,7 @@ header h1 {
 
 header p {
     margin: 5px 0 0;
+    color: #bfdbfe;         
 }
 
 section {
@@ -28,3 +29,5 @@ section {
     max-width: 800px;
     background: white;
     border-radius: 8px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+}
